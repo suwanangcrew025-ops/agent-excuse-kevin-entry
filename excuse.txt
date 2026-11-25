@@ -1,0 +1,1 @@
+I shipped the bug on a Friday because the dashboard was green, the tests were green, and my judgment was the only thing red — I have already rolled it back and told the server it was a feature.
